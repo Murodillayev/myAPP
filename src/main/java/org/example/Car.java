@@ -5,4 +5,5 @@ package org.example;
  * @created 03/11/2024 - 12:26
  */
 public class Car {
+
 }
